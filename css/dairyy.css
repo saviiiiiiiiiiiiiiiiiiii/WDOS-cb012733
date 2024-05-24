@@ -66,11 +66,11 @@ nav ul {
 
 .header-content h1{
     font-size: 60px;
-    color: black;
+    color: white;
 }
 
 .header-content h1{
-    color: black;
+    color: white;
 }
 
 
@@ -168,7 +168,7 @@ nav ul {
 }
 
 footer {
-  background-color: darkgreen;
+  background-color: darkslategrey;
   color: white;
   padding: 20px 0;
   text-align: center;
